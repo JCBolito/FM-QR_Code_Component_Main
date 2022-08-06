@@ -21,10 +21,8 @@ This mini project involves the creation of a QR Code Component using plain HTML 
 
 ### Links
 
-- Solution URL: 
-	- [HTML](https://github.com/JCBolito/qr-code-component-main/blob/main/index.html)
-	- [CSS](https://github.com/JCBolito/qr-code-component-main/blob/main/style.css)
-- Live Site URL: [GitHub Pages](https://jcbolito.github.io/qr-code-component-main/)
+- Solution URL: [GitHub Repository](https://github.com/JCBolito/FM-QR_Code_Component_Main/)
+- Live Site URL: [GitHub Pages](https://jcbolito.github.io/FM-QR_Code_Component_Main/)
 
 ## My process
 Breaking down the project into smaller chunks, the following process were taken to guarantee the project's completion:
